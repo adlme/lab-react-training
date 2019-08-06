@@ -12,3 +12,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.credit-card {
+    margin: 20px 40px;
+    border-radius: 15px;
+    padding: 5px 10px;
+}
+
+.credit-card #type{
+  text-align: right;
+}
+
+.credit-card #number{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0;
+  letter-spacing: 2px;
+}
